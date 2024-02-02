@@ -4,6 +4,8 @@ Para utilizar o script é necessário instalar a biblioteca do python.
 
 socket
 
-Exemplo: 
+Modo de utilização: 
+
+python <script>.py
 
 ![print](https://github.com/ISH-CTI-ThreatIntel/scanport-7547-CTI/assets/150695365/e8ef27b1-e1d6-4865-8379-b29ce1c9d922)
